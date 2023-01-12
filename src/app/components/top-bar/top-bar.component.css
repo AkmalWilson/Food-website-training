@@ -1,0 +1,14 @@
+
+
+.logoSearch img,
+.logoSearch input {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  position: relative;
+}
+
+.topBarStyle {
+  color: white;
+  background-color: #ee4d2d;
+}
